@@ -1,0 +1,13 @@
+#dnd {
+    padding: 100px;
+}
+#passwordstealer{
+    padding-block: initial
+}
+#main{
+    padding: 10px
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
